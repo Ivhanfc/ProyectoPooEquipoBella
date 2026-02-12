@@ -1,0 +1,14 @@
+Hello everyone, here write the documentation for BellaRestaurant
+for each implemetation in project put your name, changes and data creation
+
+-- example -[
+Ivan, CreateEmployeer(), 12:16/12_02_2026
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam odio quam, dapibus fringilla nisi et,
+ commodo tempor mi. Phasellus vel dolor ante. Cras at enim eu nibh venenatis elementum eget in ipsum.
+  Vestibulum id risus nec nisi lobortis bibendum. Mauris sodales ante vitae lorem varius sollicitudin.
+   Duis nec cursus nisl. Donec posuere vehicula nulla. Maecenas venenatis sed nisi vitae aliquam.
+    Phasellus ipsum elit, tincidunt non erat a, euismod vehicula leo. Donec congue nisi quis augue rutrum porttitor. 
+    Sed sit amet rhoncus mi, in fermentum metus. Fusce vel porta nunc. Cras eleifend elementum justo, 
+    eu blandit velit aliquet sit amet. 
+]-
