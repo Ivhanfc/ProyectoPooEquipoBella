@@ -1,5 +1,5 @@
 Hello everyone, here write the documentation for BellaRestaurant
-for each implemetation in project put your name, changes and data creation
+for all implemetation in project put your name, change description and data creation
 
 -- example -[
 Ivan, CreateEmployeer(), 12:16/12_02_2026
